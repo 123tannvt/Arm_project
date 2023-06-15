@@ -1,0 +1,8 @@
+../Core/Src/main.c:85:5:main	16	static
+../Core/Src/main.c:153:6:SystemClock_Config	88	static
+../Core/Src/main.c:199:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:246:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:283:6:Number_Display	16	static
+../Core/Src/main.c:295:6:Display	16	static
+../Core/Src/main.c:318:6:delay_500ms	24	static
+../Core/Src/main.c:331:6:Error_Handler	4	static,ignoring_inline_asm
